@@ -5,8 +5,9 @@
 ### List of Objects: adding '".\obj\system_stm32f10x.o"'
 ### List of Objects: adding '".\obj\retarget.o"'
 ### List of Objects: adding '".\obj\blinky.o"'
+### List of Objects: adding '".\obj\lever.o"'
 ### ADS-LD Command completed:
---cpu Cortex-M3 ".\obj\startup_stm32f10x_md.o" ".\obj\system_stm32f10x.o" ".\obj\retarget.o" ".\obj\blinky.o" 
+--cpu Cortex-M3 ".\obj\startup_stm32f10x_md.o" ".\obj\system_stm32f10x.o" ".\obj\retarget.o" ".\obj\blinky.o" ".\obj\lever.o" 
 --library_type=microlib --strict --scatter ".\Obj\Blinky.sct" 
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
 --info sizes --info totals --info unused --info veneers 
@@ -14,7 +15,7 @@
 ### ADS-LD Output File: '.\Obj\Blinky.axf'
 ### ADS-LD Command File: '.\Obj\Blinky.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile '.\Obj\Blinky.lnp', Handle=0x00002308
+### Creating CmdFile '.\Obj\Blinky.lnp', Handle=0x00000CB4
 ### Writing '.lnp' file
 ### ADS-LD Command file '.\Obj\Blinky.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.

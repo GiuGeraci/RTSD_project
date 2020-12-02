@@ -9,13 +9,21 @@ I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
 I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x4F588B5C)
 F (Retarget.c)(0x51C75356)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\Obj\retarget.o" --omf_browse ".\Obj\retarget.crf" --depend ".\Obj\retarget.d")
 I (C:\Keil\ARM\ARMCC\bin\..\include\rt_misc.h)(0x4EB126E0)
-F (Blinky.c)(0x5FC138FE)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\Obj\blinky.o" --omf_browse ".\Obj\blinky.crf" --depend ".\Obj\blinky.d")
+F (Blinky.c)(0x5FC7A328)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\Obj\blinky.o" --omf_browse ".\Obj\blinky.crf" --depend ".\Obj\blinky.d")
 I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x4F588B5C)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x50066FD2)
 I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB126E4)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
 I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x4F588B5C)
-F (.\lever.c)(0x5FC79F01)()
-F (.\lever.h)(0x5FC79F11)()
+I (lever.h)(0x5FC7A331)
+F (.\lever.c)(0x5FC7A35E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x -DSTM32F10X_MD -o ".\Obj\lever.o" --omf_browse ".\Obj\lever.crf" --depend ".\Obj\lever.d")
+I (lever.h)(0x5FC7A331)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\stm32f10x.h)(0x4F588B5C)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x50066FD2)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB126E4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059A2DC)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDADAAC)
+I (C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h)(0x4F588B5C)
+F (.\lever.h)(0x5FC7A331)()
 F (Abstract.txt)(0x51C75356)()
