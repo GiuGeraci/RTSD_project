@@ -5,6 +5,7 @@
 
 #include <stm32f10x.h>                       /* STM32F103 definitions         */
 #include "lever.h"
+#include "tick.h"
 
 #define EMERGENCY_INPUT_PIN 1<<0
 #define STOP_INPUT_PIN 1<<1

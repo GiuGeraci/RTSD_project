@@ -6,3 +6,4 @@
 .\Obj\blinky.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
 .\Obj\blinky.o: C:\Keil\ARM\Inc\ST\STM32F10x\system_stm32f10x.h
 .\Obj\blinky.o: lever.h
+.\Obj\blinky.o: tick.h

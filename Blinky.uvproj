@@ -421,6 +421,21 @@
               <FileType>1</FileType>
               <FilePath>Blinky.c</FilePath>
             </File>
+            <File>
+              <FileName>lever.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lever.c</FilePath>
+            </File>
+            <File>
+              <FileName>lever.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lever.h</FilePath>
+            </File>
+            <File>
+              <FileName>MetroTrainController.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\MetroTrainController.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -849,6 +864,21 @@
               <FileName>Blinky.c</FileName>
               <FileType>1</FileType>
               <FilePath>Blinky.c</FilePath>
+            </File>
+            <File>
+              <FileName>lever.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\lever.c</FilePath>
+            </File>
+            <File>
+              <FileName>lever.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\lever.h</FilePath>
+            </File>
+            <File>
+              <FileName>MetroTrainController.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\MetroTrainController.c</FilePath>
             </File>
           </Files>
         </Group>
