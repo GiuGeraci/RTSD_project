@@ -55,6 +55,18 @@ int main(void) {
 			idle();
 		}else if(GPIOB->IDR & BRAKE_1_INPUT){
 			set_brake_1();
+		}else if(GPIOB->IDR & BRAKE_2_INPUT){
+			set_brake_2();
+		}else if(GPIOB->IDR & BRAKE_3_INPUT){
+			set_brake_3();
+		}else if(GPIOB->IDR & ACCELERATION_1_INPUT){
+			set_acc_1();
+		}else if(GPIOB->IDR & ACCELERATION_2_INPUT){
+			set_acc_2();
+		}else if(GPIOB->IDR & ACCELERATION_3_INPUT){
+			set_acc_3();
+		}else if(GPIOB->IDR & EMERGENCY_INPUT_PIN){
+			emergency_brake();
 		}
 		wait ();
 	}
